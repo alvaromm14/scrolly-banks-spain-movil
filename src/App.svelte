@@ -236,15 +236,17 @@
               <p>
                 Estos son los <span style="font-weight: bold"
                   >beneficios después de impuestos</span
-                > que obtuvieron los bancos españoles en todo el mundo en 2024.
+                > que obtuvieron los diez principales bancos españoles en todo el
+                mundo en 2024.
               </p>
             </div>
           {:else if i === 1}
             <div class="step-content">
               <p>
-                En total, la banca española se embolsó 34.000 millones de euros,
-                el equivalente a cerca de 700€ por español. <br><br> El <span
-                  style="font-weight: bold">Santander</span> y el <span style="font-weight: bold">BBVA</span> acapararon por sí
+                En total, la banca española se embolsó 36.000 millones de euros,
+                el equivalente a cerca de 700€ por español. <br /><br /> El
+                <span style="font-weight: bold">Santander</span>
+                y el <span style="font-weight: bold">BBVA</span> acapararon por sí
                 solos más de dos terceras partes.
               </p>
             </div>
@@ -255,11 +257,13 @@
                   style="color: #485fb3; font-weight: bold">Norteamérica</span
                 >, el 13% de
                 <span style="color: #f5b956; font-weight: bold">Sudamérica</span
-                > y el 12% de
+                >
+                y el 12% de
                 <span style="color: #559df2; font-weight: bold">Europa</span>.
-                <br><br>El 3% restante fue facturado en
+                <br /><br />El 3% restante fue facturado en
                 <span style="color: #999; font-weight: bold">otros países</span>
-                como Turquía o Marruecos.
+                como Turquía o Marruecos. Explora esos equilibrios en el gráfico
+                interactivo.
               </p>
             </div>
           {:else if i === 3}
