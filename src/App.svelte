@@ -270,7 +270,9 @@
             <div class="step-content">
               <p>
                 <span style="color: #f28b79; font-weight: bold">España</span> no
-                supuso ni la mitad de esos beneficios. Solo aportó el 49%.
+                supuso ni la mitad de esos beneficios. Solo aportó de media el 49%,
+                una cifra que desciende al 29% en el caso del Santander y al 34%
+                en el del BBVA.
               </p>
             </div>
           {/if}
